@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Salão de Automóvel Digital</string>
+    <string name="label_power">Potência:</string>
+    <string name="label_year">Fabricação:</string>
+</resources>
